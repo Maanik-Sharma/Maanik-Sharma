@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align=center>
 <h2 align=center>Hello There</h2>
 <span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=999999999999&center=true&vCenter=true&width=435&lines=+I'm" alt="Typing SVG" /></span>
-<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=+Achal+Singhal;iglu" alt="Typing SVG" /></span>
+<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=+Maanik+Sharma;Dcypher" alt="Typing SVG" /></span>
 </div>
 
 <p>
