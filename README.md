@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 -->
 <div align=center>
 <h2 align=center>Hello There</h2>
-<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=999999999999&center=true&vCenter=true&width=435&lines=+I'm" alt="Typing SVG" /></span>
-<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=+Maanik+Sharma;Decipher" alt="Typing SVG" /></span>
+<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=999999999999&color=F72466&center=true&vCenter=true&width=435&lines=+I'm" alt="Typing SVG" /></span>
+<br>
+<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&color=F72466&center=true&vCenter=true&width=435&lines=+Maanik+Sharma;Decipher" alt="Typing SVG" /></span>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72466&random=false&width=435&lines=Maanik+Sharma+" alt="Typing SVG" /></a> -->
+ 
 </div>
 
 <p align="center">
