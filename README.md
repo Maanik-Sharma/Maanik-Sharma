@@ -16,36 +16,32 @@ Here are some ideas to get you started:
 -->
 <div align=center>
 <h2 align=center>Hello There</h2>
-<!-- <span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=999999999999&center=true&vCenter=true&width=435&lines=+I'm" alt="Typing SVG" /></span>
-<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=+Maanik+Sharma;Dcypher" alt="Typing SVG" /></span> -->
- <span href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=+Maanik+Sharma;Dcypher" alt="Typing SVG" style="color: #F71DA0FF;" />
-</span>
-</span>
-
+<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=999999999999&center=true&vCenter=true&width=435&lines=+I'm" alt="Typing SVG" /></span>
+<span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&center=true&vCenter=true&width=435&lines=+Maanik+Sharma;Decipher" alt="Typing SVG" /></span>
 </div>
 
-<p>
-Just your average tech nerd with a passion for coding.
+<p align="center">
+An ordinary tech enthusiast fueled by a deep love for coding.
 </p>
+
 <p align="center"> 
-When I'm not coding find me playing video games, jamming to music or spending time with friends. (honestly, I just spend that time watching theo or similar on youtube)
+<!-- When I'm not coding find me playing video games, jamming to music or spending time with friends. (honestly, I just spend that time watching theo or similar on youtube) -->
 </p>
 
 <div align="center">
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/singhalachal/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/maaniksharma/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"></a>&nbsp;&nbsp;
 <a href="mailto:achals2002@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/324/324123.png"></a>&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/urmnvmr6k0zhur4v6sd9ad32x?si=dfbd8e487241430d"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408697.png"></a>&nbsp;&nbsp;
  </p>
 
 </div>
-<br>
+<!-- <br>
 
 <h3>How I would define myself...literally</h3>
 
-```ruby
+ruby
 class iglu < Person
   def initialize
     @name = 'Achal Singhal'
@@ -66,9 +62,9 @@ class iglu < Person
      }
   end
 end
-```
 
-<br>
+
+<br> -->
 
 ### What I always play with
 
