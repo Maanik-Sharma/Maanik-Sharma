@@ -44,14 +44,26 @@ An tech enthusiast fueled by a deep love for coding.
 
 <br>
 
-<h3>How I would define myself...literally</h3>
+<h3>Who i am</h3>
+
+<h6>
+<!-- Class: Decipher -->
+
+Name: Maanik Sharma
+Age: 20
+Education: Vivekanana School of Professional Studies
+
+Current Location: New Delhi, India
+
+Pursuits:
+- Studying: Artificial Intelligence and Machine Learning
+- Playing around: React, Next.JS, Typescript, JAVA
 
 
+</h6>
 
 
-<br>
-
-### What I always play with
+### I consistently enjoy
 
 <div>  
  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
@@ -63,7 +75,6 @@ An tech enthusiast fueled by a deep love for coding.
 <a href="https://expressjs.com" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="ExpressJS" height="50" /></a> 
 <!-- <a href="https://kit.svelte.dev" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.sv" alt="Svelte" height="50" /></a>  -->
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/480/firebase.png" alt="Firebase" height="50" /></a> 
 <!-- <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"><img style="margin: 10px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" alt="Flask" height="50" /></a> -->
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
@@ -73,9 +84,10 @@ An tech enthusiast fueled by a deep love for coding.
 </div>
 
 
-### What I sometimes play with
+### I dabble in from time to time
 
 <div>
+<a href="https://en.wikipedia.org/wiki/Firebase" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/color/480/firebase.png" alt="Firebase" height="50" /></a> 
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
 <!-- <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  -->
 <!-- <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" height="50" /></a>   -->
@@ -94,12 +106,5 @@ An tech enthusiast fueled by a deep love for coding.
 | Github Stats                                                                                                                                                                     | Top Languages                                                                                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [![Maanik-Sharma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maanik-Sharma&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maanik-Sharma&layout=compact&theme=prussian&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats) |
-
-<div align=center>
-
-### My Spotify Activity
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=k3xb5nhhxyg77i8hcj9big644&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/k3xb5nhhxyg77i8hcj9big644?si=85562649d6ed45b5)
-
 
 </div>
