@@ -36,7 +36,8 @@ An tech enthusiast fueled by a deep love for coding.
 <p align='center'>
 <a href="https://www.linkedin.com/in/maaniksharma/"><img height="30" src="https://cdn-icons-png.flaticon.com/512/408/408703.png"></a>&nbsp;&nbsp;
 <a href="mailto:07817711621_ml@vips.edu"><img height="30" src="https://cdn-icons-png.flaticon.com/512/324/324123.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/yi_Decipher"><img height="30" src="https://cdn-icons-png.flaticon.com/128/14417/14417460.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/yi_Decipher"><img height="30" src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=FFFFFF"></a>&nbsp;&nbsp;
+<!-- <a href="https://twitter.com/yi_Decipher"><img height="30" src="https://cdn-icons-png.flaticon.com/128/14417/14417460.png"></a>&nbsp;&nbsp; -->
  </p>
 
 
