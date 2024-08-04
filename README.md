@@ -23,9 +23,9 @@ Here are some ideas to get you started:
  
 </div>
 
-<p align="center">
+<h6 align="center">
 An tech enthusiast fueled by a deep love for coding.
-</p>
+</h6>
 
 <p align="center"> 
 <!-- When I'm not coding find me playing video games, jamming to music or spending time with friends. (honestly, I just spend that time watching theo or similar on youtube) -->
