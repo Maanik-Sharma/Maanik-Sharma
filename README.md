@@ -1,4 +1,4 @@
-### Hi there 👋
+###
 
 <!--
 **Maanik-Sharma/Maanik-Sharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=center>
-<h2 align=center>Hello There</h2>
+<h2 align=center>Hello There! ✨</h2>
 <span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=999999999999&color=F72466&center=true&vCenter=true&width=435&lines=+I'm" alt="Typing SVG" /></span>
 <br>
 <span href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&pause=1000&color=F72466&center=true&vCenter=true&width=435&lines=+Maanik+Sharma;Decipher" alt="Typing SVG" /></span>
@@ -61,7 +61,7 @@ Current Location: New Delhi, India
 
 Pursuits:
 - Studying: Artificial Intelligence and Machine Learning
-- Playing around: React, Next.JS, Typescript, JAVA
+- Playing around: React, Next.JS, Typescript, AI, ML, Java
 
 
 </h4>
